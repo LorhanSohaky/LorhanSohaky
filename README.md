@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LorhanSohaky&style=flat-square)
 
  <div>
   <a href="https://github.com/LorhanSohaky">
