@@ -1,10 +1,7 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LorhanSohaky&style=flat-square)
 
- <script>
- function test(){
- alert("Test")
- }
- </script>
+<script src="https://unpkg.com/@mui/material@latest/umd/material-ui.development.js" crossorigin="anonymous"></script>
+
  <div>
   <a href="https://github.com/LorhanSohaky">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorhanSohaky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
