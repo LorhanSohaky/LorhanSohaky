@@ -2,7 +2,7 @@
 
  <script>
  function test(){
- alert("Test")
+ alert("Test");
  }
  </script>
  <div>
